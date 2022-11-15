@@ -11,8 +11,7 @@
 
   After reviewing the Total by city Type graph, we can see the date range with the highest Total Fares for the Suburban and Urban city types is at the end of February.  At the start of April, the Urban and Rural city types start to decline for the end of the month while Suburban spikes in total fares. 
 
-
-	For suburban city type right after its peak at the end of February the total fares drop significantly.  When compared to the other city types none of them have this significant decrease. 
+  For suburban city type right after its peak at the end of February the total fares drop significantly.  When compared to the other city types none of them have this significant decrease. 
 
 
 ## Summary
